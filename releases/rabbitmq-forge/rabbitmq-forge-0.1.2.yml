@@ -1,5 +1,5 @@
 name: rabbitmq-forge
-version: 0.1.1
+version: 0.1.2
 commit_hash: 5d9af09
 uncommitted_changes: false
 jobs:
